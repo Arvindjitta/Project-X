@@ -1,0 +1,8 @@
+{
+<<<<<<< HEAD
+    "python.linting.enabled": true,
+    "python.pythonPath": "projectx\\Scripts\\python.exe"
+=======
+    "python.linting.enabled": true
+>>>>>>> 8cb461f4377e3705e1194b9bf63e40db94f1dc00
+}
